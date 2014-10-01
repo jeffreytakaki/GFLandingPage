@@ -50,8 +50,8 @@ h1, h2, h3, h4, h5, h6{font-weight:normal;}
 .menu{background:#fff;border-top: 3px solid #333;}
 .menu-inner{width:90%;margin:auto;padding:20px 0;}
 .logo{float: left;
-height: 60px;
-width: 200px;
+height: 80px;
+width: 300px;
 margin-top: -10px;
 }
 .companyName{font-size: 20px;width:30%; height:0px;font-family: 'OpenSansLight';color:lightblue;}
@@ -75,7 +75,7 @@ margin-top: -10px;
 }
 .menu span{display:block;letter-spacing:normal;font-family: 'OpenSansLight';color:#999;}
 .menu i{position:absolute;left:0;line-height:40px;font-size:20px;width:40px;}
-.motto{text-align:center;padding:200px 0;}
+.motto{text-align:center;padding:200px 0;background-color: rgba(0,0,0,0.4);width:100%;}
 .motto h2 {
     color: white;
     font-weight: bold;
@@ -189,14 +189,14 @@ input:-moz-placeholder { font-size:12px;}
 
 
 /*------------------------------footer section------------------------------*/
-#footer{background:#222;font-size:12px;}
+#footer{background:gray;font-size:12px;}
 .footer{padding:20px 0;width:90%;}
 .social{list-style:none;margin:0;float:right;}
 .social li{display:inline-block;margin:0 10px;}
 .footer a{text-decoration:none;}
 .social li i{font-size:14px;}
 .copyright{float:left;}
-.copyright p{color:#999;margin:0;}
+.copyright p{color:white;margin:0;}
 .foot{display:none;}
 
 /*-----------------------------media queries-----------------------------------*/

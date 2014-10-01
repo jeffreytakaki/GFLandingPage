@@ -19,10 +19,9 @@ staticScrollLimit : false
 					slide_links				:	'false',	// Individual links for each slide (Options: false, 'num', 'name', 'blank')
 					slides 					:  	[			// Slideshow Images
 														
-														{image : 'images/nemusbiosblue.png' },
-														{image : 'images/ShutterStock - testtubes.jpg' },
-														// {image : 'images/slider3.jpg'},
-														// {image : 'images/slider4.jpg'}
+														{image : 'images/shutterstock-tree.jpg' },
+														{image : 'images/ShutterStock-success.jpg' },
+														{image : 'images/ShutterStock-businessincubator.jpg' },														
 												]
 					
 				});
