@@ -48,15 +48,23 @@ h1, h2, h3, h4, h5, h6{font-weight:normal;}
 
 /*----------------------------home section----------------------------*/
 .menu{background:#fff;border-top: 3px solid #333;}
-.menu-inner{width:90%;margin:auto;padding:20px 0;}
+.menu-inner {
+width: 90%;
+margin: auto;
+margin-top: 10px;
+}
 .logo{float: left;
 height: 80px;
 width: 300px;
 margin-top: -10px;
 }
 .companyName{font-size: 20px;width:30%; height:0px;font-family: 'OpenSansLight';color:lightblue;}
-.menu ul{float:right;list-style:none;margin:0;}
-
+.menu ul {
+float: right;
+list-style: none;
+margin: 0;
+padding-top: 5px;
+}
 .menu li {
     border-left: 1px solid #CCCCCC;
     display: inline-block;
@@ -146,7 +154,12 @@ input:active,input:focus,textarea:active,textarea:focus{box-shadow:none !importa
 fieldset {color: #333;}
 .black-btn:hover,.black-btn:focus{color:#222;background:#fff;text-decoration:none;}
 .detail{padding-top:20px;text-align:left;font-family: 'TeXGyreAdventorBold'; font-size: 15px;}
-.text{padding-bottom:20px;text-align:center;}
+.text {
+padding-bottom: 20px;
+text-align: center;
+width: 80%;
+margin: 0 auto;
+}
 
 /*modal section*/
 #MyContactForm p{width:100%;float:left;}
