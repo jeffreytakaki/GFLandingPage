@@ -20,8 +20,8 @@ staticScrollLimit : false
 					slides 					:  	[			// Slideshow Images
 														
 														{image : 'images/shutterstock-tree.jpg' },
-														{image : 'images/ShutterStock-success.jpg' },
-														{image : 'images/ShutterStock-businessincubator.jpg' },														
+														{image : 'images/shutterstock-success.jpg' },
+														{image : 'images/shutterstock-businessincubator.jpg' },														
 												]
 					
 				});

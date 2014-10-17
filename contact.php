@@ -1,5 +1,5 @@
 <?php
-$toEmail 		= "jeffrey.takaki@yahoo.com"; //Replace it recipient email address.
+$toEmail 		= "hello@gfbv.com"; //Replace it recipient email address.
 $subject 		= 'Web Inquiry'; //Subject line for emails
 
 //Let's clean harmful characters from raw POST data using PHP Sanitize filters.
